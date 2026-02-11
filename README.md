@@ -4,7 +4,7 @@
 
 A collection of practical Python examples demonstrating each of the five SOLID principles of object-oriented design.
 
-![SOLID Principles](assets/images/solid.png)
+![SOLID Principles](assets/images/SOLID.png)
 
 
 ## What is SOLID?
@@ -23,7 +23,7 @@ SOLID is a set of five design principles introduced by Robert C. Martin that hel
 
 ```
 SOLID Principles/
-├── LiskovsSubstitutionPrinciple.py  
+├── liskov_substitution_principle.py  
 ├── requirements.txt
 ├── README.md
 └── venv/
